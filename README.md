@@ -49,7 +49,16 @@ A3D	A predictor of aggregation-prone regions through sequence- and structure-bas
 
 IEDB-AR	A comprehensive platform including tools for prediction and analysis of immune epitopes
 
+
+
 Hu-mAb	A classifier that can distinguish between human and non-human antibody Fv sequences
 
 BioPhi	A comprehensive platform for antibody design, humanization, and humanness evaluation
+
+# Baselines
+
+*SMINA
+*QuickVina-W ( Blind Docking)
+*GNINA    (Deep learning based scoring)
+*Glide(Commercial)  From Schrodinger
 
